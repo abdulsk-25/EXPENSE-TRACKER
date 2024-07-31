@@ -1,2 +1,2 @@
 # Expense-Tracker
-Used to alert requestors that a discount has been approved
+An Expense Tracker is a simple project where you create a system to keep track of how much money you spend and earn. It helps you record every expense, like groceries or bills, and income, like your salary or side jobs. By entering these details, you can see how much you're spending versus earning, and manage your budget better. It can be a simple app, a spreadsheet, or even a notebook where you log these transactions.
